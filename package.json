@@ -1,7 +1,7 @@
 {
-  "name": "simple-hello-world-example",
+  "name": "package_sal_tech",
   "version": "1.0.4",
-  "description": "a simple hello world example",
+  "description": "a simple hello world",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js"
@@ -14,11 +14,11 @@
   "engines": {
     "node": ">4.0"
   },
-  "homepage": "http://github.com/SalmanNiz/simple-hello-world-example",
+  "homepage": "http://github.com/SalmanNiz/package_sal_tech",
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/SalmanNiz/simple-hello-world-example/LICENSE"
+      "url": "http://github.com/SalmanNiz/package_sal_tech/LICENSE"
     }
   ],
   "contributors": [
@@ -30,7 +30,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/SalmanNiz/simple-hello-world-example.git"
+    "url": "http://github.com/SalmanNiz/package_sal_tech.git"
   },
   "devDependencies": {
     "chai": "4.1.2",
