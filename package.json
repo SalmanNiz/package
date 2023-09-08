@@ -1,0 +1,39 @@
+{
+  "name": "simple-hello-world-example",
+  "version": "1.0.4",
+  "description": "a simple hello world example",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hello world"
+  ],
+  "author": "Salman Niyazi <technosalman1@gmail.com>",
+  "engines": {
+    "node": ">4.0"
+  },
+  "homepage": "http://github.com/SalmanNiz/simple-hello-world-example",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/SalmanNiz/simple-hello-world-example/LICENSE"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Salman Niyazi",
+      "email": "technosalman1@gmail.com",
+      "url": "https://github.com/SalmanNiz"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/SalmanNiz/simple-hello-world-example.git"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "5.0.5"
+  }
+}
